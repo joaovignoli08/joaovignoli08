@@ -23,3 +23,6 @@
   <div align="center">
   <img src="https://github.com/Pedro-Henrique-Graf-Vieira/Pedro-Henrique-Graf-Vieira/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+
+<img src="https://github.com/joaovignoli08/gif21/blob/main/IMG_7544.gif" width="100px">
