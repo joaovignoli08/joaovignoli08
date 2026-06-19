@@ -1,4 +1,30 @@
-<h1 align="center">Olá! Eu sou o Joao Emanuel Alvarenga</h1>
+h1 align="center">Olá! 👋 Eu sou Miguel Rodrigues</h1>
+
+<p align="center">
+🎓 Estudante de Engenharia de Software na Unicesumar <br>
+💻 Focado em Inteligencia Artificial
+</p>
+
+---
+
+## 👾 Sobre o Joao Emanuel
+
+- Cursando 1• Semestre de Engenharia de Software na Unicesumar
+- Entusiasta em Cybersegurança, Java Script e Python
+- Aprendendo Redes de computadores 
+- Em busca de oportunidades na área de tecnologia
+
+---
+
+## 💻 Tecnologias que estou aprendendo
+
+<div align="center"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+<h1 align="center">Olá! Eu sou o Joao Emanuel Alvarenga 🖥️</h1>
 
 
 <div align="center">
